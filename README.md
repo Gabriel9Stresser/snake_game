@@ -6,4 +6,4 @@ Hoje consegui reproduzir o mesmo em JavaScript graças a didática da Gabriela P
 
 
 # Print
-https://github.com/Gabriel9Stresser/snake_game/issues/1#issue-769086449
+![Captura de tela 2020-12-16 134132](https://user-images.githubusercontent.com/65667183/102378562-b5aafb00-3fa4-11eb-9651-d1a597a47e15.png)
